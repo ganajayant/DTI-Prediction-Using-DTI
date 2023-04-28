@@ -1,1 +1,1 @@
-# DTI-Prediction-Using-GCN
+# DTI-Prediction-using-GCN
